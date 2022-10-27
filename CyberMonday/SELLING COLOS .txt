@@ -1,0 +1,140 @@
+<html>
+<head>
+<title>table</title>
+
+
+<style type="text/css">
+
+body {background-color: hotpink;
+}
+
+table {
+width: 550px; 
+background-color: lime;
+coler: navy;
+font-family: arial;
+border-collapse: collapse;
+}
+
+
+
+th {
+background-color: blue;
+color: white;
+}
+
+
+
+tr.odd {
+background-color: red;
+}
+
+
+.center {
+text-align: center;
+}
+
+
+</style>
+
+	</head>
+<h1></h1>
+
+
+ <table border="10">
+
+<caption>This is trade marked by Zach and Sean and violators will be tortured (slightly)<caption>
+ 
+	<tr><!--row 1-->
+	<th>color for sale</th>
+	<th>price</th>
+	<th></th>
+</tr><tr><!--row 2-->
+	<th>cool blue</th>
+	<th></th>
+	<th></th>
+</tr><tr><!--row 3-->
+	<th>cool grey</th>
+	<th></th>
+	<th></th>
+</tr><tr><!--row 4-->
+	<th>turquoist</th>
+	<th></th>
+	<th></th>
+</tr><tr><!--row 5-->
+	<th>Azure blue</th>
+	<th></th>
+	<th></th>
+</tr><tr><!--row 6-->
+	<th>new blur</th>
+	<th></th>
+	<th></th>
+</tr><tr><!--row 7-->
+	<th></th>
+	<th></th>
+	<th></th>
+</tr><tr><!--row 8-->
+	<th></th>
+	<th></th>
+	<th></th>
+</tr><tr><!--row 9-->
+	<th></th>
+	<th></th>
+	<th></th>
+</tr><tr><!--row 10-->
+	<th></th>
+	<th></th>
+	<th></th>
+</tr><tr><!--row 11-->
+	<th></th>
+	<th></th>
+	<th></th>
+</tr><tr><!--row 12-->
+	<th></th>
+	<th></th>
+	<th></th>
+</tr><tr><!--row 13-->
+	<th></th>
+	<th></th>
+	<th></th>
+</tr><tr><!--row 14-->
+	<th></th>
+	<th></th>
+	<th></th>
+</tr><tr><!--row 15-->
+	<th></th>
+	<th></th>
+	<th></th>
+</tr><tr><!--row 16-->
+	<th></th>
+	<th></th>
+	<th></th>
+</tr><tr><!--row 17-->
+	<th></th>
+	<th></th>
+	<th></th>
+</tr><tr><!--row 18-->
+	<th></th>
+	<th></th>
+	<th></th>
+</tr><tr><!--row 19-->
+	<th></th>
+	<th></th>
+	<th></th>
+</tr><tr><!--row 20-->
+	<th></th>
+	<th></th>
+	<th></th>
+</tr>
+	
+
+ </table>
+
+ 
+ </h1>
+
+
+<body>
+
+</body>
+</html>
